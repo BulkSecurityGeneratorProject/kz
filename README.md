@@ -1,0 +1,2 @@
+# kz
+Playing with JHipster
