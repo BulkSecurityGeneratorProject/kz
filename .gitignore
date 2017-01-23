@@ -38,3 +38,6 @@ jspm_packages
 
 # Output goes to target, exclude (ignore) that
 target
+
+# We rebuild the bower_components directory using bower install, so do not put that in git
+bower_components
